@@ -41,8 +41,10 @@ footer {
     color: rgb(253, 254, 254);
 }
 .cer{
-    width: 300px;
-    height: 250px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 1rem auto;
 }
 .cv-btn {
 display: inline-block;
